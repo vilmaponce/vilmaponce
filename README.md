@@ -2,9 +2,9 @@
 
 # 👋 Hola, soy ***Vilma Ponce***
 
-### 📍 Ubicación: [Buenos Aires, Argentina]
-
-Soy un desarrollador apasionado por la creación de aplicaciones web y la gestión de bases de datos. Actualmente, estoy trabajando en proyectos que integran tecnologías como Node.js, Express , MySQL, MongoDB y estoy enfocado en mejorar mis habilidades en el desarrollo full-stack.
+📍 **Ubicación**: Buenos Aires, Argentina  
+💻 **Desarrolladora apasionada** por la creación de aplicaciones web y la gestión de bases de datos. Actualmente, trabajo en proyectos que integran tecnologías como **Node.js**, **Express**, **MySQL** y **MongoDB**. Estoy comprometida con el **desarrollo full-stack** y siempre en busca de mejorar mis habilidades y afrontar nuevos desafíos.
+.
 
 ---
 
