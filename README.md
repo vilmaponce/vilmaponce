@@ -1,6 +1,6 @@
 
 
-# 👋 Hola, soy [Vilma Ponce]
+# 👋 Hola, soy ***Vilma Ponce***
 
 ### 📍 Ubicación: [Buenos Aires, Argentina]
 
